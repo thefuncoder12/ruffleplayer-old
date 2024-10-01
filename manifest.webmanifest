@@ -1,0 +1,10 @@
+{
+    "name": "thefuncoder12",
+    "short_name": "thefuncoder12",
+    "description": "Just another Github page.",
+    "icons": [],
+    "start_url": "./",
+    "display": "standalone",
+    "theme_color": "",
+    "background_color": ""
+}
